@@ -1,8 +1,7 @@
-# Hi there 👋
-Welcome to my GitHub profile!
+## Hi there 👋
+I am Gian, and welcome to my GitHub profile!
 
 ## About Me:
-- 👤 My name is Gian
 - 🔭 I specialise in data science & machine learning
 - 💼 I have over 2 years of experience as a data & analytics consultant
 - 🎓 I studied in Heriot-Watt University
