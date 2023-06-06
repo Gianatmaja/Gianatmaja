@@ -1,5 +1,5 @@
-## Hi there 👋
-I am Gian, and welcome to my GitHub profile!
+## Welcome to my GitHub Profile Page 👋
+![Banner](https://github.com/Gianatmaja/Gianatmaja/blob/main/images/github-header-image%20(1).png)
 
 ## About Me:
 - 🔭 I specialise in data science & machine learning
