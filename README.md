@@ -9,6 +9,23 @@
 - 🔗 For more details, visit [my Linkedin profile](https://www.linkedin.com/in/gianatmaja/).
 
 ## Competencies
+### Technical
+![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=Data%20Science)
+![ML](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=Machine%20Learning)
+![MLOps](https://img.shields.io/badge/-MLOps-333333?style=flat&logo=MLOps)
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-333333?style=flat&logo=Data%20Engineering)
+![Business Analytics](https://img.shields.io/badge/-Business%20Analytics-333333?style=flat&logo=Business%20Analytics)
+![Cloud](https://img.shields.io/badge/-Cloud%20Computing-333333?style=flat&logo=Cloud%20Computing)
+![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=DevOps)
+![Statistical Modelling](https://img.shields.io/badge/-Statistical%20Modelling-333333?style=flat&logo=Statistical%20Modelling)
+
+### Business
+![Financical Products](https://img.shields.io/badge/-Financial%20Products-333333?style=flat&logo=Financial%20Products)
+![Accounting](https://img.shields.io/badge/-Accounting-333333?style=flat&logo=Accounting)
+![LI](https://img.shields.io/badge/-Life%20Insurance-333333?style=flat&logo=Life%20Insurance)
+![GI](https://img.shields.io/badge/-General%20Insurance-333333?style=flat&logo=General%20Insurance)
+![CRM](https://img.shields.io/badge/-Customer%20Relationship%20Management-333333?style=flat&logo=Customer%20Relationship%20Management)
+![Customer360](https://img.shields.io/badge/-Customer360-333333?style=flat&logo=Customer360)
 
 ## Tech Stack
 
