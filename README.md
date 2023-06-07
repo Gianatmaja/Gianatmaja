@@ -15,6 +15,7 @@
 ## Connect with Me:
 Feel free to reach out to me via Linkedin or Email!
 
+<p align="left">
 <a href="https://www.linkedin.com/in/gianatmaja/" target="blank"><img align="center" src="images/linkedin.svg" alt="gianatmaja" height="48" width="48" /></a>
-
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gianatmaja25@gmail.com" target="blank"><img align="center" src="images/gmail.svg" alt="gianatmaja" height="48" width="48" /></a>
+</p>
