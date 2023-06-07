@@ -15,9 +15,9 @@
 ![MLOps](https://img.shields.io/badge/-MLOps-333333?style=flat&logo=MLOps)
 ![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-333333?style=flat&logo=Data%20Engineering)
 ![Business Analytics](https://img.shields.io/badge/-Business%20Analytics-333333?style=flat&logo=Business%20Analytics)
+![Statistical Modelling](https://img.shields.io/badge/-Statistical%20Modelling-333333?style=flat&logo=Statistical%20Modelling)
 ![Cloud](https://img.shields.io/badge/-Cloud%20Computing-333333?style=flat&logo=Cloud%20Computing)
 ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=DevOps)
-![Statistical Modelling](https://img.shields.io/badge/-Statistical%20Modelling-333333?style=flat&logo=Statistical%20Modelling)
 
 ### Business
 ![Financical Products](https://img.shields.io/badge/-Financial%20Products-333333?style=flat&logo=Financial%20Products)
