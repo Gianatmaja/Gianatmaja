@@ -22,7 +22,7 @@
 ### Business
 ![Financical Products](https://img.shields.io/badge/-Financial%20Products-333333?style=flat&logo=Financial%20Products)
 ![LI](https://img.shields.io/badge/-Life%20Insurance-333333?style=flat&logo=Life%20Insurance)
-![GI](https://img.shields.io/badge/-General%20Insurance-333333?style=flat&logo=General%20Insurance)![Accounting](https://img.shields.io/badge/-Accounting-333333?style=flat&logo=Accounting)
+![GI](https://img.shields.io/badge/-General%20Insurance-333333?style=flat&logo=General%20Insurance)
 ![Accounting](https://img.shields.io/badge/-Accounting-333333?style=flat&logo=Accounting)
 ![CRM](https://img.shields.io/badge/-Customer%20Relationship%20Management-333333?style=flat&logo=Customer%20Relationship%20Management)
 ![Customer360](https://img.shields.io/badge/-Customer360-333333?style=flat&logo=Customer360)
