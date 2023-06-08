@@ -30,6 +30,8 @@
 
 ## Tech Stack
 
+![Tech Stack](images/TechStack.png)
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="50" height="50"/> </a>
