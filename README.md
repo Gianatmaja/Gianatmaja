@@ -29,7 +29,7 @@
 ![Customer360](https://img.shields.io/badge/-Customer360-333333?style=flat&logo=Customer360)
 
 ## Tech Stack
-![Tech Stack](images/TechStack.png)
+![Tech Stack](images/Tech_Stack.png)
 
 ## Connect with Me
 Feel free to reach out to me via Linkedin or by Email!
