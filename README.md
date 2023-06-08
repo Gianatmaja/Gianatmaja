@@ -29,17 +29,7 @@
 ![Customer360](https://img.shields.io/badge/-Customer360-333333?style=flat&logo=Customer360)
 
 ## Tech Stack
-
 ![Tech Stack](images/TechStack.png)
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/> </a>
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="80" height="50"/> </a>
-<a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="50"/> </a>
-<a href="https://mlflow.org/" target="_blank"> <img src="images/mlflow.png" alt="mlflow" width="85" height="35"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="images/airflow.png" alt="airflow" width="85" height="35"/> </a>
-</p>
 
 ## Connect with Me
 Feel free to reach out to me via Linkedin or by Email!
