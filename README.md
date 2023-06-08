@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Profile Page 👋
-![Banner](https://github.com/Gianatmaja/Gianatmaja/blob/main/images/github-header-image%20(1).png)
+![Banner](images/Banner.png)
 
 ## About Me
 - 🔭 I focus in data science, machine learning, and business analytics.
